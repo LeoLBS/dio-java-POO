@@ -3,7 +3,7 @@
 # 
 
 ## Descrição do repositório
-Estou criando esse repositório para armazenar todo o conteúdo visto no curso de Java Básico.
+Estou criando esse repositório para armazenar todo o conteúdo visto no curso de Fundamentos da Programação Orientada a Objetos com Java.
 
 #
 
